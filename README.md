@@ -3,7 +3,7 @@
 </div>
 <div>
   <p>
-    Soy un desarrollador Full Stack con experiencia práctica diseñando, desarrollando e implementando aplicaciones y soluciones utilizando una variedad de tecnologías y lenguajes de programación.
+    Soy un desarrollador Full Stack con experiencia práctica diseñando, desarrollando e implementando aplicaciones y soluciones utilizando una variedad de tecnologías.
   </p>
 </div>
 
