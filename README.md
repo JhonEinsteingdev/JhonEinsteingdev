@@ -36,10 +36,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+<!--
 <h3>🖥️ Análisis de GitHub</h3>
-<div style="display:flex; column-gap: 3px">
+ <div style="display:flex; column-gap: 3px">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=EinsteingCastiblanco&theme=dark&hide_border=true&locale=es" alt="GitHub Streak" width="280px" height="130px"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EinsteingCastiblanco&hide_progress=true&theme=dark&hide_border=true&locale=es" alt="GitHub technology" width="280px"  height="130px"/>
-</div>
+ </div>
+-->
